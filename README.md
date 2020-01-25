@@ -1,43 +1,48 @@
-# _{Project Title}_
+# _Boilerplate Website_
 
-#### _{quick one sentence description}, Jan.23.2020_
+#### _This site come with all the fixes to get you started making a single page website fast. | Jan 24. 2020_
 
-#### By _**Name 1 and Name 2**_
+#### By _**Dusty McCord**_
+[link to demo site](#)
 
 ## Description
 
-_This app will take in words from a user and return the words in Pig Latin_
+_This boilerplate site has one index.html file that is already linked to the included bootstrap.css, styles.css, jQuery.js, and scripts.js. The .gitignore file is a template for mac osx but a link is provided to get a template for any operating system._
 
-## Installation
+[create a .gitignore template for your os here](https://www.gitignore.io/)
 
-Make sure you have [git version control](https://git-scm.com/downloads) installed on your computer.
+## Setup/Installation Requirements
 
-* _find the green 'Clone or Download' button and copy the link_
-* _open terminal and type cd /Desktop on a mac/linux on a windows type cd Desktop_
-* _in terminal type 'git clone {link to repository} ' note : remove {} from your command_
+_Make sure you have [git version control](https://git-scm.com/downloads) installed on your computer._
 
-```sh
-git clone {link to repository}
+1. find the green 'Clone or Download' button and copy the link
+2. open terminal and type...
+
+**Windows**
+```sh 
+cd desktop
 ```
 
-* _navigate to the new folder that was created on your desk_
-* _select index.html_
-* _right click and select open with_
-* _select your browser_
-* _enjoy a Pig Latin translate with your whole family_
+ Mac & linux 
+ ```sh
+ cd ~/Desktop
+ ```
 
-## Behavior Driven Development Specifications
+ 3. in terminal type '_git clone {link to repository}_ '
 
-Behavior | Input |  Output
----------|-------|----
-The program does takes in a number and returns a number. | 1 | 1
-The program does takes in a number and returns a number. | 1 | 1
-The program does takes in a number and returns a number. | 1 | 1
+```sh
+git clone link-here
+```
 
+4. navigate to the new folder that was created on your desk
+5. select index.html
+6. right click on the file and select _'open with'_
+7. select your browser
+8. enjoy a Pig Latin translate with your whole family
 
 ## Support and contact details
 
-_Use at your own risk_
+_The software is provided as is. It might work as expected - or not. Just don't blame me._
 
 ## Built With
 
@@ -50,4 +55,5 @@ _Use at your own risk_
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright (c) 2020**_Josh Hellman and Dusty McCord and the whole Epicodus class_**
+Copyright (c) 2020 **_Dusty McCord_**
+
