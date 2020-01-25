@@ -1,6 +1,6 @@
 # _Boilerplate Website_
 
-#### _This site come with all the fixes to get you started making a single page website fast. | Jan 24. 2020_
+#### _This site comes with all basic parts to get you started making a single page website fast. | Jan 24. 2020_
 
 #### By _**Dusty McCord**_
 [link to demo site](#)
@@ -31,7 +31,7 @@ cd desktop
  3. in terminal type '_git clone {link to repository}_ '
 
 ```sh
-git clone link-here
+git clone https://github.com/dustatron/boilerplate-simple-website.git
 ```
 
 4. navigate to the new folder that was created on your desk
