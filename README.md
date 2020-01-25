@@ -53,7 +53,7 @@ _The software is provided as is. It might work as expected - or not. Just don't 
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Simple Scaffolding
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Used for interactivity in the page
-* [Jquery](https://jquery.com/) - Used to interact with the DOM
+* [jQuery](https://jquery.com/) - Used to interact with the DOM
 * [Bootstrap 4.4](https://getbootstrap.com/) - Used for styling
 
 ## Useful tools
