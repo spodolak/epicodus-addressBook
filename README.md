@@ -45,9 +45,11 @@ git clone https://github.com/dustatron/boilerplate-simple-website.git
 7. select your browser
 8. enjoy a Pig Latin translate with your whole family
 
-## Support and contact details
+
+## Support 
 
 _The software is provided as is. It might work as expected - or not. Just don't blame me._
+
 
 ## Built With
 
@@ -66,16 +68,15 @@ _The software is provided as is. It might work as expected - or not. Just don't 
     * **_source.unsplash.com_ will return a random image at a desired size by simply calling the size after the url followed by a '?' and a keyword. Example below**
 
     * _https://source.unsplash.com/400x400/?cat_
+    * http://unsplash.it/500/500 - This will just return a random image the size of 500x500
 ---
 * [Flex-box Cheat Sheet](http://yoksel.github.io/flex-cheatsheet/)
 * [CSS Grid Cheat Sheet](http://grid.malven.co/)
 ---
 * [CSS Gradient BG Generator](https://mycolor.space/gradient)
 * [CSS Basic Gradient Generator](https://cssgradient.io/)
-
+---
 * [CSS Dropshadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
-
-
 
 ### License
 
