@@ -1,13 +1,18 @@
 # _Boilerplate Website_
 
-#### _This site comes with all basic parts to get you started making a single page website fast. | Jan 24. 2020_
+#### _This site comes with the all basic parts to get you started making a single page website fast. | Jan 24. 2020_
 
 #### By _**Dusty McCord**_
 [link to demo site](#)
 
 ## Description
 
-_This boilerplate site has one index.html file that is already linked to the included bootstrap.css, styles.css, jQuery.js, and scripts.js. The .gitignore file is a template for mac osx but a link is provided to get a template for any operating system._
+_This boilerplate site has one index.html file that is already linked to the included bootstrap.css(4.4), styles.css, jQuery.js(3.4.1), and scripts.js._
+
+
+There is a pre-built two input form with a submit button. There is also a simple jQuery function that will console.log when the submit button is clicked.
+
+The .gitignore file is a template for mac osx but a link is provided to get a template for any operating system. 
 
 [create a .gitignore template for your os here](https://www.gitignore.io/)
 
