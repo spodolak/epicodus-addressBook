@@ -3,7 +3,7 @@
 #### _This site comes with the all basic parts to get you started making a single page website fast. | Jan 24. 2020_
 
 #### By _**Dusty McCord**_
-[link to demo site](#)
+[link to demo site](https://dustatron.github.io/boilerplate-simple-website/)
 
 ## Description
 
