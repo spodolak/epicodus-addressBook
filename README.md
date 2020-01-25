@@ -56,6 +56,27 @@ _The software is provided as is. It might work as expected - or not. Just don't 
 * [Jquery](https://jquery.com/) - Used to interact with the DOM
 * [Bootstrap 4.4](https://getbootstrap.com/) - Used for styling
 
+## Useful tools
+
+[free icons @ icons8](https://icons8.com/)
+[free  icons @ fontawesome](https://fontawesome.com/)
+
+[Old School Gifs Search](https://gifcities.org/)
+[free images @ unsplash](https://unsplash.com/)
+* **_source.unsplash.com_ will return a random image at a desired size by simply calling the size after the url followed by a '?' and a keyword. Example below**
+
+* _https://source.unsplash.com/400x400/?cat_
+
+[Flex-box Cheat Sheet](http://yoksel.github.io/flex-cheatsheet/)
+[CSS Grid Cheat Sheet](http://grid.malven.co/)
+
+[CSS Gradient BG Generator](https://mycolor.space/gradient)
+[CSS Basic Gradient Generator](https://cssgradient.io/)
+
+[CSS Dropshadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+
+
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
