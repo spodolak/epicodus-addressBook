@@ -46,6 +46,14 @@ git clone https://github.com/dustatron/boilerplate-simple-website.git
 8. enjoy a Pig Latin translate with your whole family
 
 
+## Specs
+### Behavior Driven Development Spec List
+
+Behavoir | Input | Output
+:---------:|:------:|:------:
+The program takes in input and console.log a 'click' | 'any word' | 'click'
+The program takes in any words and console logs the output | 'learning to code' | 'learning to code'
+
 ## Support 
 
 _The software is provided as is. It might work as expected - or not. Just don't blame me._
