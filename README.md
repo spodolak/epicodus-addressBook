@@ -36,7 +36,6 @@ git clone https://github.com/dustatron/epicodus-addressBook.git
 5. select index.html
 6. right click on the file and select _'open with'_
 7. select your browser
-8. enjoy a Pig Latin translate with your whole family
 
 ## Support 
 
